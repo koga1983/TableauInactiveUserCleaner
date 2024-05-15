@@ -1,0 +1,12 @@
+{
+  "tableau": {
+    "server_url": "your_tableau_server_or_cloud_url",
+    "personal_access_token_name": "your_personal_access_token_name",
+    "personal_access_token": "your_personal_access_token",
+    "site_id": "your_site_id"
+  },
+  "slack": {
+    "slack_bot_token": "your_slack_bot_token",
+    "slack_channel_id": "your_slack_channel_id"
+  }
+}
